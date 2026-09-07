@@ -1,0 +1,53 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "symbols.hidesExplorerArrows": false,
+
+    "explorer.compactFolders": false,
+
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "short",
+    "workbench.statusBar.visible": true,
+    "workbench.layoutControl.enabled": false,
+    "workbench.activityBar.location": "bottom",
+
+    "editor.insertSpaces": false,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "JetbrainsMono Nerd Font",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.5,
+    "editor.rulers": [80, 100],
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "editor.semanticHighlighting.enabled": true,
+    "editor.minimap.autohide": "mouseover",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.cursorStyle": "block-outline",
+    "editor.stickyScroll.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.scrollBeyondLastLine": true,
+    "editor.smoothScrolling": true,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.quickSuggestions": {
+        "othera": true,
+        "comments": false,
+        "strings": false
+    },
+    
+    "window.titleBarStyle": "native",
+    "window.menuBarVisibility": "toggle",
+    
+    "explorer.fileNesting.enabled": true,
+    "window.customTitleBarVisibility": "auto",
+    
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.size": "fit",
+    "editor.minimap.enabled": false,
+    "editor.guides.indentation": false,
+    "explorer.confirmDragAndDrop": false,
+    "clangd.path": "/home/lois/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/22.1.6/clangd_22.1.6/bin/clangd",
+    "window.commandCenter": false,
+    "workbench.colorTheme": "Evergruv (Gruvbox Material) Dark",
+    "workbench.iconTheme": "vscode-material-theme-icons-palenight",
+    "python.languageServer": "Default"
+}
